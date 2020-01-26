@@ -1,7 +1,7 @@
 # 191-Lachesis
 
 ## Team: Lachesis
-## 
+### Under Dr. Dante Roa
 
 ## Group Members
 ### Zhengyu Jin
