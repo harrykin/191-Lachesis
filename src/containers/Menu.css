@@ -1,0 +1,18 @@
+.center {
+  float: left;
+  width: 10%;
+  align-items: center;
+  justify-content: center;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.grid {
+  float: center;
+}
+
+.header {
+  text-align: center;
+}
